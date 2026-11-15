@@ -26,6 +26,21 @@ A comprehensive, hands-on networking lab demonstrating the implementation of a *
 
 ---
 
+## 📊 Testing & Verification Screenshots
+
+### 1. Client Broadband IP Verification (`ipconfig`)
+![Client PPPoE IP Config](pppoe-ipconfig.png)
+
+### 2. Active PPPoE Connection in WinBox
+![Active PPPoE Connection](pppoe-active.png)
+
+### 3. PPP Secret Configuration (`shohag`)
+![PPP Secret Configuration](pppoe-secret.png)
+
+### 4. Dynamic Point-to-Point Route Verification (`/ip route print`)
+![PPPoE Route Verification](pppoe-route.png)
+
+
 ## 💻 MikroTik RouterOS CLI Commands
 
 ```routeros
